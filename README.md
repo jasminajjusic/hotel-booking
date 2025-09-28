@@ -1,16 +1,32 @@
-# hotelbooking
+# 🏨 Hotel Booking App
 
-A new Flutter project.
+A Flutter-based hotel booking application that allows users to search, view, and book hotels with a smooth and modern experience.  
+The app includes essential features such as login, hotel browsing, reservations, personal information management, payments, and cancellations.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔑 **User Authentication** – Secure login and registration.  
+- 🏨 **Hotel Browsing** – Explore available hotels with detailed info.  
+- 📅 **Reservations** – Book rooms quickly and easily.  
+- 👤 **Profile Management** – Add and edit personal information.  
+- 💳 **Payments** – Integrated payment flow for hotel bookings.  
+- ❌ **Cancellations** – Cancel reservations with one click.  
+- 🚀 **Modern Navigation** – Powered by GoRouter with shell routes.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** – Cross-platform UI framework  
+- **Supabase** – Backend as a service (auth + database)  
+- **Flutter Hooks** – Simplified state management and lifecycle handling  
+- **GoRouter** – Declarative and scalable navigation with shell routes  
+
+
+---
+
+## Figma (screenshots)
+https://www.figma.com/design/gYUxik8TtpbHA8TE6tl62t/HotelBooking?node-id=0-1&p=f&t=zcvOJa1qUEaxCyH4-0
+
