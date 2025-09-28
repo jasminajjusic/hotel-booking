@@ -27,6 +27,14 @@ The app includes essential features such as login, hotel browsing, reservations,
 
 ---
 
-## Figma (screenshots)
-https://www.figma.com/design/gYUxik8TtpbHA8TE6tl62t/HotelBooking?node-id=0-1&p=f&t=zcvOJa1qUEaxCyH4-0
+## 📸 Screenshots
+
+Here is an example of the app:
+
+![App Screenshot](assets/icons/hotelbooking.png)
+
+👉 More  screens are available on the following Figma link:  
+[Figma Project Link](https://www.figma.com/design/gYUxik8TtpbHA8TE6tl62t/HotelBooking?node-id=0-1&p=f&t=zcvOJa1qUEaxCyH4-0)
+
+
 
