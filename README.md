@@ -23,7 +23,7 @@ The app includes essential features such as login, hotel browsing, reservations,
 - **Supabase** – Backend as a service (auth + database)  
 - **Flutter Hooks** – Simplified state management and lifecycle handling  
 - **GoRouter** – Declarative and scalable navigation with shell routes  
-- **TKT** – (Tool/Library you used, expand acronym if needed)  
+
 
 ---
 
