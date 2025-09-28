@@ -1,0 +1,43 @@
+name: hotelbooking
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_hooks: ^0.20.5
+  flutter_svg: ^2.0.9
+  go_router: ^16.0.0
+  supabase_flutter: ^2.9.1
+  flutter_bloc: ^9.1.1
+  equatable: ^2.0.7
+  intl: ^0.20.2
+  country_picker: ^2.0.27
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+  table_calendar: ^3.2.0
+  flutter_dotenv: ^5.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  build_runner: ^2.4.9
+  json_serializable: ^6.7.1
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
+    - assets/fonts/
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/app_icon.png"
